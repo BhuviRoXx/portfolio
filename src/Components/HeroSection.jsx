@@ -21,7 +21,9 @@ export const HeroSection = () => {
           </h1>
 
           <p className="text-md md:text-md text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            I'm a Software Developer and currently SDE Intern at Kriyadocs, working with Node.js to build scalable APIs, features, and test cases. I have experience with AWS services like Lambda, CloudWatch, and S3. I've also built personal projects using React.js and the MERN stack, and I'm proficient in C++ with a solid understanding of OOP.
+            I'm software developer and SIH 2024 Finalist with a passion for backend systems, full-stack development, and building impactful tech solutions. I enjoy turning ideas into scalable applications, optimizing performance, and continuously exploring new technologies to solve real-world problems.
+
+
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
