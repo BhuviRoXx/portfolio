@@ -1,5 +1,6 @@
 @import "tailwindcss";
 
+/* color variables and animations */
 @theme {
   --color-border: hsl(var(--border));
   --color-background: hsl(var(--background));
@@ -62,6 +63,7 @@
   }
 }
 
+/* layer styles */
 @layer base {
   :root {
     --background: 210 40% 98%;
